@@ -27,8 +27,9 @@
   transition: all 0.3s linear 0s;
 }
 .report-module .thumbnail {
-  background: #009775;
+  /*background: #009775;*/
   height: 500px;
+    
   overflow: hidden;
 }
 .thumbnail {
@@ -54,7 +55,7 @@
   -ms-transition: all 0.3s linear 0s;
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
-  opacity: .2;
+  /*opacity: .2;*/
 }
 .report-module .post-content {
   position: absolute;
