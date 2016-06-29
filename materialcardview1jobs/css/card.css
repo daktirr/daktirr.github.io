@@ -28,7 +28,7 @@
 }
 .report-module .thumbnail {
   /*background: #009775;*/
-  height: 500px;
+  max-height: 100%;
     
   overflow: hidden;
 }
