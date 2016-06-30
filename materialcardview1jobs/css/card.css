@@ -10,16 +10,16 @@
 }
 .report-module {
   position: relative;
-  margin: 30px 0;
+  margin: 10px 0;
   z-index: 1;
   display: block;
-  background: #ffffff;
+  
   min-width: 270px;
   width: 300px\9;
-  height: auto;
+  height: 300px;
   -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
-  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 1px 2px 3px rgba(0, 0, 0, 0.15);
   -webkit-transition: all 0.3s linear 0s;
   -moz-transition: all 0.3s linear 0s;
   -ms-transition: all 0.3s linear 0s;
@@ -28,7 +28,7 @@
 }
 .report-module .thumbnail {
   /*background: #009775;*/
-  height: 500px;
+  height: 200px;
     
   overflow: hidden;
 }
